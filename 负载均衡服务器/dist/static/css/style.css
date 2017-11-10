@@ -1,0 +1,27 @@
+html,body{
+    margin: 0;
+    height: 100%;
+    /* background-color: lightgray; */
+}
+.container{
+    width: 1160px;
+    margin: 0 auto;
+    /* background-color: orange; */
+
+}
+
+.el-tabs__item{
+
+}
+.is-active{
+    color: rgb(176, 158, 122) !important;
+}
+.el-tabs__content{
+    padding: 0 !important;
+}
+/* .el-tabs__item{
+   border-top-width: 5px !important;
+}
+.el-tabs__item:hover{
+    border-top:5px solid rgb(176, 158, 122) !important;
+} */
